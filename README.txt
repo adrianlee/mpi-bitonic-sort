@@ -1,7 +1,5 @@
 ECSE420 Parallel Assignment 4
 Dec 3, 2012
-Adrian Lee
-260272188
 
 Files included:
     bitonic.c
